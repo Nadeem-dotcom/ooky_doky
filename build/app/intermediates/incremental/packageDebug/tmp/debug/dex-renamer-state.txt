@@ -1,0 +1,4 @@
+#Tue Jun 13 17:09:31 PKT 2023
+base.0=/home/nadeem/Documents/Flutter/Flutter_Projects/ooky_doky/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
